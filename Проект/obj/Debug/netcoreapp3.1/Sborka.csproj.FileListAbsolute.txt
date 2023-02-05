@@ -1,0 +1,71 @@
+D:\Users\Софья\Downloads\12784001_Proekt\bin\Debug\netcoreapp3.1\Sborka.exe
+D:\Users\Софья\Downloads\12784001_Proekt\bin\Debug\netcoreapp3.1\Sborka.dll.config
+D:\Users\Софья\Downloads\12784001_Proekt\bin\Debug\netcoreapp3.1\Sborka.deps.json
+D:\Users\Софья\Downloads\12784001_Proekt\bin\Debug\netcoreapp3.1\Sborka.runtimeconfig.json
+D:\Users\Софья\Downloads\12784001_Proekt\bin\Debug\netcoreapp3.1\Sborka.runtimeconfig.dev.json
+D:\Users\Софья\Downloads\12784001_Proekt\bin\Debug\netcoreapp3.1\Sborka.dll
+D:\Users\Софья\Downloads\12784001_Proekt\bin\Debug\netcoreapp3.1\Sborka.pdb
+D:\Users\Софья\Downloads\12784001_Proekt\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\Users\Софья\Downloads\12784001_Proekt\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\Users\Софья\Downloads\12784001_Proekt\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Users\Софья\Downloads\12784001_Proekt\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Users\Софья\Downloads\12784001_Proekt\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Users\Софья\Downloads\12784001_Proekt\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Users\Софья\Downloads\12784001_Proekt\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Users\Софья\Downloads\12784001_Proekt\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Софья\Downloads\12784001_Proekt\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Users\Софья\Downloads\12784001_Proekt\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Users\Софья\Downloads\12784001_Proekt\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\Софья\Downloads\12784001_Proekt\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Users\Софья\Downloads\12784001_Proekt\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Users\Софья\Downloads\12784001_Proekt\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Users\Софья\Downloads\12784001_Proekt\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\Софья\Downloads\12784001_Proekt\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\Софья\Downloads\12784001_Proekt\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\Софья\Downloads\12784001_Proekt\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\Софья\Downloads\12784001_Proekt\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Софья\Downloads\12784001_Proekt\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Users\Софья\Downloads\12784001_Proekt\obj\Debug\netcoreapp3.1\Sborka.csproj.AssemblyReference.cache
+D:\Users\Софья\Downloads\12784001_Proekt\obj\Debug\netcoreapp3.1\Sborka.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Софья\Downloads\12784001_Proekt\obj\Debug\netcoreapp3.1\Sborka.AssemblyInfoInputs.cache
+D:\Users\Софья\Downloads\12784001_Proekt\obj\Debug\netcoreapp3.1\Sborka.AssemblyInfo.cs
+D:\Users\Софья\Downloads\12784001_Proekt\obj\Debug\netcoreapp3.1\Sborka.csproj.CoreCompileInputs.cache
+D:\Users\Софья\Downloads\12784001_Proekt\obj\Debug\netcoreapp3.1\Sborka.csproj.CopyComplete
+D:\Users\Софья\Downloads\12784001_Proekt\obj\Debug\netcoreapp3.1\Sborka.dll
+D:\Users\Софья\Downloads\12784001_Proekt\obj\Debug\netcoreapp3.1\Sborka.pdb
+D:\Users\Софья\Downloads\12784001_Proekt\obj\Debug\netcoreapp3.1\Sborka.genruntimeconfig.cache
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\bin\Debug\netcoreapp3.1\Sborka.exe
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\bin\Debug\netcoreapp3.1\Sborka.dll.config
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\bin\Debug\netcoreapp3.1\Sborka.deps.json
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\bin\Debug\netcoreapp3.1\Sborka.runtimeconfig.json
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\bin\Debug\netcoreapp3.1\Sborka.runtimeconfig.dev.json
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\bin\Debug\netcoreapp3.1\Sborka.dll
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\bin\Debug\netcoreapp3.1\Sborka.pdb
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\obj\Debug\netcoreapp3.1\Sborka.csproj.AssemblyReference.cache
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\obj\Debug\netcoreapp3.1\Sborka.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\obj\Debug\netcoreapp3.1\Sborka.AssemblyInfoInputs.cache
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\obj\Debug\netcoreapp3.1\Sborka.AssemblyInfo.cs
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\obj\Debug\netcoreapp3.1\Sborka.csproj.CoreCompileInputs.cache
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\obj\Debug\netcoreapp3.1\Sborka.dll
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\obj\Debug\netcoreapp3.1\Sborka.pdb
+D:\Users\Софья\Рабочий стол\Помощь Лине\C#\3\Проект\obj\Debug\netcoreapp3.1\Sborka.genruntimeconfig.cache
